@@ -8,7 +8,7 @@ My Presentation World
 
 <body>
 
-- 👀 <b> I'm interested in </b>  ... learn programming
+- 👀 <b> I'm interested in </b>  ... Learn Programming
 - 🌱 <b> I'm currently learning </b>... AutoIt & Batch (SS64) 
 - 💞️ <b> I'm looking to collaborate on </b> ... Programming Software to Cybersecurity & Apply in a SYMANTEC
 
